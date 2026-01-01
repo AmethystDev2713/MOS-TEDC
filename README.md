@@ -1,6 +1,6 @@
 # Master of Silicon: Theory and Evolution of Digital Computing
 
-## Copyright © 2025 AmethystDev2713. All rights reserved.
+## Copyright (c) 2025 AmethystDev2713. All rights reserved.
 
 Last updated: 12/24/2025 at 10:44 PM UTC
 
@@ -57,9 +57,6 @@ The information presented consists of the author's original thoughts, widely kno
 
 ## Legal Information
 
-First Conceived by AmethystDev2713 on October 9th, 2025 at 1:37 PM UTC. First Published on December 24th, 2025 at 10:44 PM UTC. Licensed under Creative Commons Attribution–NoDerivatives 4.0 International License (CC BY-ND 4.0). You may learn from and share this eBook with attribution, but you may NOT modify or adapt it. See full license code: https://creativecommons.org/licenses/by-nd/4.0/legalcode.txt
-
-
+First Conceived by AmethystDev2713 on October 9th, 2025 at 1:37 PM UTC. First Published on December 24th, 2025 at 10:44 PM UTC. Licensed under Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0). You may learn from, use commercially (e.g. in education), and share this eBook, **with attribution**, but you may NOT modify, remix, or adapt it. See full license code: https://creativecommons.org/licenses/by-nd/4.0/legalcode.txt
 
 Would you like a translation of this book? Contact AmethystDev2713.
-
