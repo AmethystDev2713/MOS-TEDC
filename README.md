@@ -2,7 +2,7 @@
 
 ## Copyright (c) 2025 AmethystDev2713. All rights reserved.
 
-Last updated: 12/24/2025 at 10:44 PM UTC
+Last updated: 1/3/2026 at 9:36 PM UTC
 
 ## Scope of this eBook
 
@@ -34,10 +34,18 @@ The information presented consists of the author's original thoughts, widely kno
   * Section 2: Keep Things BASIC
   * Section 3: More Power
   * Section 4: Communication
-  * Section 5: Artificial Intelligence \& Machine Learning
-  * Section 6: Cryptography \& Cybersecurity
+  * Section 5: Artificial Intelligence & Machine Learning
+  * Section 6: Intro to Cybersecurity
 
-* Chapter 4: Application
+* Chapter 4: Cryptography & Cybersecurity
+  * Section 1: Storing Secrets
+  * Section 2: Integrity Checking
+  * Section 3: Symmetric Encryption
+  * Section 4: Asymmetric Encryption and PQC
+  * Section 5: Secure Networking
+  * Section 6: The Arms Race
+
+* Chapter 5: Application
 
   * Section 1: Electrical Engineering
   * Section 2: Ethical Hacking
@@ -46,7 +54,7 @@ The information presented consists of the author's original thoughts, widely kno
   * Section 5: Robots
   * Section 6: Space Exploration
 
-* Chapter 5: The Future of Digital Computing
+* Chapter 6: The Future of Digital Computing
 
   * Section 1: Quantum Computing
   * Section 2: Neuromorphic Computing
