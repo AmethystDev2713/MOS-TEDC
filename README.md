@@ -2,7 +2,7 @@
 
 ## Copyright (c) 2025 AmethystDev2713. All rights reserved.
 
-Last updated: 1/3/2026 at 9:36 PM UTC
+Last updated: 1/4/2026 at 2:33 AM UTC
 
 ## Scope of this eBook
 
@@ -35,7 +35,7 @@ The information presented consists of the author's original thoughts, widely kno
   * Section 3: More Power
   * Section 4: Communication
   * Section 5: Artificial Intelligence & Machine Learning
-  * Section 6: Intro to Cybersecurity
+  * Section 6: Frameworks & Libraries
 
 * Chapter 4: Cryptography & Cybersecurity
   * Section 1: Storing Secrets
